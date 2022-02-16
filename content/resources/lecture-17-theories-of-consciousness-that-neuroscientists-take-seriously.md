@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: ([PDF](resources/mit24_08js09_lec17))
+parent_title: 'Lectures: Video and Slides'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Theories of Consciousness that Neuroscientists Take Seriously'
 uid: c8c40f1e-b99c-6701-665d-eda426378e14

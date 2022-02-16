@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lectures: Video and Slides'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: The Imagery Debate: The Role of the Brain'
 uid: f3aa0210-3772-83a5-7f33-ad6245c8da50
