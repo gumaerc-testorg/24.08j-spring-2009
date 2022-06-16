@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, links to
+  guidelines on writing, and class handouts.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,17 +11,17 @@ uid: ebfc2799-166e-c531-4907-41d921ef1473
 
 Course assignments consist of 2–3 page argument analyses and 5 page papers. Detailed guidelines for paper assignments are indicated in the links below.
 
-Guidelines for Papers ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn06))
+Guidelines for Papers ({{% resource_link 0626b371-f911-dc10-a80d-bb45ab97cef8 "PDF" %}})
 
-First Argument Analysis ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn01))
+First Argument Analysis ({{% resource_link 1065178e-d5ff-049e-6a10-84209dafba27 "PDF" %}})
 
-Second Argument Analysis ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn02))
+Second Argument Analysis ({{% resource_link 71eeceaf-17d6-f296-9a3f-dc5192f3398c "PDF" %}})
 
-First Paper ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn03))
+First Paper ({{% resource_link 68931869-1a6f-53f1-3a0b-e078aa676934 "PDF" %}})
 
-Second Paper ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn04))
+Second Paper ({{% resource_link 20f620a8-9792-dcfc-81f6-6c697f02b6d7 "PDF" %}})
 
-Third Paper ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn05))
+Third Paper ({{% resource_link acef5977-b139-a72d-e409-182ace88d83c "PDF" %}})
 
 Useful Links
 ------------
@@ -31,6 +33,6 @@ Useful Links
 Useful Handouts
 ---------------
 
-Meno and The Paradox of Inquiry ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn07))
+Meno and The Paradox of Inquiry ({{% resource_link 5a553804-652c-b99b-35da-8da4c3fe025b "PDF" %}})
 
-Argument: The Basics ([PDF]({{< baseurl >}}/resources/mit24_08js09_assn08))
+Argument: The Basics ({{% resource_link 9775d6d2-4e0f-49b3-ab8e-5d55444bbc79 "PDF" %}})

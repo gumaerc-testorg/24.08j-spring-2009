@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lectures: Video and Slides'
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: The Imagery Debate: The Role of the Brain'
 uid: f3aa0210-3772-83a5-7f33-ad6245c8da50
 video_files:
@@ -35,3 +38,6 @@ video_metadata:
 10.  Neural systems
 
 **Instructor:** Prof. Stephen Kosslyn
+
+
+

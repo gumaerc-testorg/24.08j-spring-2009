@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lectures: Video and Slides'
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Theories of Consciousness'
 uid: d152a7f3-32df-2fee-32ab-fdfbc15fe36a
 video_files:
@@ -35,3 +38,6 @@ video_metadata:
 10.  Brain processes
 
 **Instructor:** Prof. David Chalmers
+
+
+

@@ -1,15 +1,18 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: ([PDF - 1.4MB](resources/mit24_08js09_lec5))
+optional_text: ([PDF - 1.4MB](/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_lec5))
 parent_title: 'Lectures: Video and Slides'
 parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Are Infants Little Scientists?   '
 uid: a69af042-a920-441b-8bde-61f1ac4a9041
 video_files:
@@ -31,3 +34,6 @@ video_metadata:
 6.  Domain boundaries
 
 **Instructor:** Prof. Jesse Prinz
+
+
+
