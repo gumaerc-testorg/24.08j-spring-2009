@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lectures: Video and Slides'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Addressing Molyneux''s Query'
 uid: e2845f93-351d-1f9f-92d4-323ad91eacfc
 video_files:
@@ -29,3 +40,4 @@ video_metadata:
 11.  Touch
 
 **Instructor:** Prof. Richard Held
+
