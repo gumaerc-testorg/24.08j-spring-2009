@@ -6,6 +6,7 @@ file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/9775d6d2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Arguments: the basics'
 uid: 9775d6d2-4e0f-49b3-ab8e-5d55444bbc79
 ---
 Class handout on the basics of argument, evaluating arguments, argument-forms, and common flaws.
-

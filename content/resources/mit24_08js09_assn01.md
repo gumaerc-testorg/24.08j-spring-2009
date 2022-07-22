@@ -6,6 +6,7 @@ file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/1065178e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: First Argument Analysis
 uid: 1065178e-d5ff-049e-6a10-84209dafba27
 ---
 Writing assignment on Pinker's response to Piatelli-Palmarini's argument that extreme nativism is compatible with evolutionary biology.
-

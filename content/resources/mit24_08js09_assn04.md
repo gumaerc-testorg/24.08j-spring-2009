@@ -6,6 +6,7 @@ file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/20f620a8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Second Paper
 uid: 20f620a8-9792-dcfc-81f6-6c697f02b6d7
 ---
 Writing assignment on the picture theory of mental images (or the depictive theory).
-

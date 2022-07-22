@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: ([PDF - 1.4MB](/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_lec5))
@@ -34,6 +35,4 @@ video_metadata:
 6.  Domain boundaries
 
 **Instructor:** Prof. Jesse Prinz
-
-
 

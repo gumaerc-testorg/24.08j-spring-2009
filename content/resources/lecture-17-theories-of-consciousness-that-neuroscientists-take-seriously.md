@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: ([PDF](/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_lec17))
@@ -36,6 +37,4 @@ video_metadata:
 8.  Psychology
 
 **Instructor:** Prof. Ned Block
-
-
 
