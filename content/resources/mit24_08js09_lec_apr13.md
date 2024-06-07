@@ -5,6 +5,7 @@ description: Lecture slides on theories of consciousness that neuroscientists ta
   principle, ambitious versus modest higher order, ambitious higher order theory,
   neuroscience, and psychology.
 file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/7bf372c031c4cd9182d358d8ff7ee9b7_MIT24_08JS09_Lec_Apr13.pdf
+file_size: 348599
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
