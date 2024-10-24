@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment on constructing the science of consciousness.
-file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/acef5977b139a72de409182ace88d83c_MIT24_08JS09_assn05.pdf
+file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/acef5977b139a72de409182ace88d83c_MIT24_08JS09_assn05.pdf
 file_size: 536952
 file_type: application/pdf
 learning_resource_types:

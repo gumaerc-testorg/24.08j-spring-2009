@@ -3,7 +3,7 @@ content_type: resource
 description: 'Guidebook on taking philosophy classes.  Topics include: five myths
   about philosophy, ten general tips, how to read philosophy papers, how to write
   philosophy papers, and how to revise philosophy papers.'
-file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/b1951db4129e4b9b9e7f25f994a78e4c_MIT24_08JS09_read.pdf
+file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/b1951db4129e4b9b9e7f25f994a78e4c_MIT24_08JS09_read.pdf
 file_size: 392760
 file_type: application/pdf
 learning_resource_types:
