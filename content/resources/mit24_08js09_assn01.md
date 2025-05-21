@@ -2,7 +2,7 @@
 content_type: resource
 description: Writing assignment on Pinker's response to Piatelli-Palmarini's argument
   that extreme nativism is compatible with evolutionary biology.
-file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/1065178ed5ff049e6a1084209dafba27_MIT24_08JS09_assn01.pdf
+file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/1065178ed5ff049e6a1084209dafba27_MIT24_08JS09_assn01.pdf
 file_size: 83806
 file_type: application/pdf
 learning_resource_types:

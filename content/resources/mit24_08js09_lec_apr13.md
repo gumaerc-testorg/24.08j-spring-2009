@@ -4,7 +4,7 @@ description: Lecture slides on theories of consciousness that neuroscientists ta
   seriously, explanatory gap, first order and higher order difference, the transitivity
   principle, ambitious versus modest higher order, ambitious higher order theory,
   neuroscience, and psychology.
-file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/7bf372c031c4cd9182d358d8ff7ee9b7_MIT24_08JS09_Lec_Apr13.pdf
+file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/7bf372c031c4cd9182d358d8ff7ee9b7_MIT24_08JS09_Lec_Apr13.pdf
 file_size: 348599
 file_type: application/pdf
 learning_resource_types: []
