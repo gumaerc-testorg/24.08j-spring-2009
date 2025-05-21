@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on writing papers for the course.
-file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/0626b371f911dc10a80dbb45ab97cef8_MIT24_08JS09_assn06.pdf
+file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/0626b371f911dc10a80dbb45ab97cef8_MIT24_08JS09_assn06.pdf
 file_size: 540852
 file_type: application/pdf
 learning_resource_types:

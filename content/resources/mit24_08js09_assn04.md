@@ -2,7 +2,7 @@
 content_type: resource
 description: Writing assignment on the picture theory of mental images (or the depictive
   theory).
-file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/20f620a89792dcfc81f66c697f02b6d7_MIT24_08JS09_assn04.pdf
+file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/20f620a89792dcfc81f66c697f02b6d7_MIT24_08JS09_assn04.pdf
 file_size: 537258
 file_type: application/pdf
 learning_resource_types:
