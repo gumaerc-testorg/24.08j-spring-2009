@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout on Plato's Meno, the paradox of inquiry, and the doctrine
   of recollection.
-file: /courses/24-08j-philosophical-issues-in-brain-science-spring-2009/5a553804652cb99b35da8da4c3fe025b_MIT24_08JS09_assn07.pdf
+file: /ol-ocw-studio-app/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/5a553804652cb99b35da8da4c3fe025b_MIT24_08JS09_assn07.pdf
 file_size: 106805
 file_type: application/pdf
 learning_resource_types:
