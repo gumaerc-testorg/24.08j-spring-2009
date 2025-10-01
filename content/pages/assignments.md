@@ -26,9 +26,9 @@ Third Paper ({{% resource_link acef5977-b139-a72d-e409-182ace88d83c "PDF" %}})
 Useful Links
 ------------
 
-[Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html)
+{{% resource_link "e865b3b7-d020-446d-b0ec-929bd01e8a31" "Guidelines on Writing a Philosophy Paper" %}}
 
-[Philosophical Terms and Methods](http://www.jimpryor.net/teaching/vocab/index.html)
+{{% resource_link "b2b5f3a7-fe66-414e-81fc-6ff43072bc1a" "Philosophical Terms and Methods" %}}
 
 Useful Handouts
 ---------------
